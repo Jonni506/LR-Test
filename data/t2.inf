@@ -1,0 +1,11 @@
+[t2]
+FileName1=t2_gen_204.htm
+URL1=https://www.google.com/gen_204?s=webhp&t=aft&atyp=csi&ei=zfkgXJD2ApSSjwSFn6TACQ&rt=wsrt.883,aft.1326,prt.178
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_2.xml
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t2_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

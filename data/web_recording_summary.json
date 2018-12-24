@@ -1,0 +1,215 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/javascript"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 6,
+    "RecordedBrowser": "Internet Explorer",
+    "RecordingDate": "Dec-24-2018",
+    "RecordingDuration": 13984,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1545664836,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 612176,
+    "TotalBytesSent": 7105,
+    "TotalRequests": 11,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "gstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.3.3",
+          "IncludeInScript": true,
+          "Name": "www.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 156,
+              "EventId": 1048,
+              "HttpStatus": 200,
+              "Size": 48218,
+              "URL": "https://www.gstatic.com/og/_/js/k=og.og2.en_US.ATZQdPfr-RM.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTv-X7m9A6GmnfpSsKdPIfvIYg06ZQ"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.11.227",
+          "IncludeInScript": true,
+          "Name": "ssl.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 141,
+              "EventId": 1039,
+              "HttpStatus": 200,
+              "Size": 7325,
+              "URL": "https://ssl.gstatic.com/gb/images/i1_1967ca6a.png"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.2.4",
+          "IncludeInScript": true,
+          "Name": "www.google.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 172,
+              "EventId": 546,
+              "HttpStatus": 302,
+              "Size": 231,
+              "URL": "http://www.google.com/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.2.4",
+          "IncludeInScript": true,
+          "Name": "www.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 141,
+              "EventId": 1016,
+              "HttpStatus": 200,
+              "Size": 27879,
+              "URL": "https://www.google.com/xjs/_/js/k=xjs.s.en.o7-j2t2yx9g.O/am=DAAWYf4ByP8pAJAAEIAKbLBABolBJQ/rt=j/d=1/exm=sx,Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,xpltpb,yQ43ff,d,csi/ed=1/dg=2/rs=ACT90oF49LUbB2T2Rts0ABdPq-kYfMHJrw/m=sb_wiz,aa,abd,async,dvl,foot,ipv6,lu,m,mu,sf,xz7cCd,WgDvvc?xjs=s1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 156,
+              "EventId": 1014,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://www.google.com/gen_204?atyp=csi&ei=zfkgXJD2ApSSjwSFn6TACQ&s=jsa&jsi=s,t.0,et.focus,n.iDPoPb,cn.1&zx=1545664976266"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 157,
+              "EventId": 932,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://www.google.com/gen_204?s=webhp&t=aft&atyp=csi&ei=zfkgXJD2ApSSjwSFn6TACQ&rt=wsrt.883,aft.1326,prt.178"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 141,
+              "EventId": 881,
+              "HttpStatus": 200,
+              "Size": 138207,
+              "URL": "https://www.google.com/xjs/_/js/k=xjs.s.en.o7-j2t2yx9g.O/m=sx,Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,xpltpb,yQ43ff,d,csi/am=DAAWYf4ByP8pAJAAEIAKbLBABolBJQ/rt=j/d=1/dg=2/rs=ACT90oF49LUbB2T2Rts0ABdPq-kYfMHJrw"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 141,
+              "EventId": 646,
+              "HttpStatus": 200,
+              "Size": 297224,
+              "URL": "https://www.google.com/logos/doodles/2018/holidays-2018-southern-hemisphere-day-2-5668817333125120.7-law.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 643,
+              "HttpStatus": 200,
+              "Size": 16786,
+              "URL": "https://www.google.com/images/nav_logo242.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 157,
+              "EventId": 631,
+              "HttpStatus": 200,
+              "Size": 6177,
+              "URL": "https://www.google.com/images/hpp/Chrome_Owned_96x96.png"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 203,
+              "EventId": 569,
+              "HttpStatus": 200,
+              "Size": 70129,
+              "URL": "https://www.google.com/?gws_rd=ssl"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 1
+}

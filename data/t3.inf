@@ -1,0 +1,17 @@
+[t3]
+FileName1=t3_gen_204.htm
+URL1=https://www.google.com/gen_204?atyp=csi&ei=zfkgXJD2ApSSjwSFn6TACQ&s=jsa&jsi=s,t.0,et.focus,n.iDPoPb,cn.1&zx=1545664976266
+Total=4
+ContentType=text/html
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+FileName2=t3_m=sb_wiz,aa,abd,async,dvl,foot,ipv6,lu,m,mu,sf,xz7cCd,WgDvvc.html
+URL2=https://www.google.com/xjs/_/js/k=xjs.s.en.o7-j2t2yx9g.O/am=DAAWYf4ByP8pAJAAEIAKbLBABolBJQ/rt=j/d=1/exm=sx,Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,xpltpb,yQ43ff,d,csi/ed=1/dg=2/rs=ACT90oF49LUbB2T2Rts0ABdPq-kYfMHJrw/m=sb_wiz,aa,abd,async,dvl,foot,ipv6,lu,m,mu,sf,xz7cCd,WgDvvc?xjs=s1
+FileName3=t3_i1_1967ca6a.png
+URL3=https://ssl.gstatic.com/gb/images/i1_1967ca6a.png
+FileName4=t3_rs=AA2YrTv-X7m9A6GmnfpSsKdPIfvIYg06ZQ.html
+URL4=https://www.gstatic.com/og/_/js/k=og.og2.en_US.ATZQdPfr-RM.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTv-X7m9A6GmnfpSsKdPIfvIYg06ZQ
+[ProtocolInfo]
+ProtocolId=QTWeb

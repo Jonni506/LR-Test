@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Accept-Language: en-US,en;q=0.8,es-CR;q=0.5,es;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: www.google.com
+Connection: Keep-Alive
+Cookie: OGPC=19008559-5:; 1P_JAR=2018-12-24-15; NID=152=o1GnTRPhcbvB8kT9lMC-oW-Gvi_7_gni9CGL8vZIYMBoEWxyBr9kK8NCOIPuW5_FtdJIIjrmpZ1GmDQc5RxlxV9gUXGpDQLFH7OTKslj6qW2laK6gQ8lIfNezUUBHYYnSthzvNFbMl-vvldoy0yU8buFATnrv5W08Qscm4tnvyc; DV=EwBVD1Ostx4VsLwFPdwP7UQHTeAMfhY
+
